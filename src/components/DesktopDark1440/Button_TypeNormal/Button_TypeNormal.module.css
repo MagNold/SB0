@@ -1,0 +1,7 @@
+.button.button {
+  align-self: flex-start;
+}
+.root {
+  width: min-content;
+  height: min-content;
+}

@@ -1,0 +1,139 @@
+.tag2.tag2 {
+  background-color: #172135;
+}
+.tag {
+  color: #f7f3f3;
+  font-size: 12px;
+  font-family: Source Sans Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tag4.tag4 {
+  background-color: #172135;
+}
+.tag3 {
+  color: #f7f3f3;
+  font-size: 12px;
+  font-family: Source Sans Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tag6.tag6 {
+  background-color: #172135;
+}
+.tag5 {
+  color: #f7f3f3;
+  font-size: 12px;
+  font-family: Source Sans Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tag8.tag8 {
+  background-color: #172135;
+}
+.tag7 {
+  color: #f7f3f3;
+  font-size: 12px;
+  font-family: Source Sans Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  width: 552px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  gap: 26px;
+  padding: 26px;
+  border-radius: 10px;
+  background-color: #172135;
+  overflow: hidden;
+}
+.header {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: center;
+}
+.digitalAgency {
+  color: #f7f3f3;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Source Code Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2023 {
+  color: #f7f3f399;
+  font-size: 16px;
+  line-height: 153.7%;
+  font-family: Source Sans Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.img {
+  position: relative;
+  height: 372px;
+  align-self: stretch;
+  border-radius: 15px;
+  background-image:/* webpackIgnore: true */ url('/assets/img.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.footer {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+.tagsAndLinks {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: center;
+}
+.tags {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 12px;
+}
+.links {
+  width: 59.25px;
+  height: 24px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.digitalAgencyIsALandingPageBui {
+  color: #f7f3f3;
+  font-size: 16px;
+  line-height: 153.7%;
+  font-family: Source Sans Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
